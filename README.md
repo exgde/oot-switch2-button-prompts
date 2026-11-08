@@ -23,6 +23,12 @@ Icons:
 |---|---|---|
 | ![](previews/preview-PlayStation.png) | ![](previews/preview-Xbox.png) | ![](previews/preview-SteamDeck.png) |
 
+Ocarina song sheets (v1.1; row 1 = original, then PlayStation, Xbox, Steam Deck):
+
+![song sheets](previews/preview-ocarina.png)
+
+Version history: [CHANGELOG.md](CHANGELOG.md).
+
 ## Install (Lichii / Eden / yuzu-like)
 
 1. Download the zip of the mod you want from [Releases](../../releases) (or clone this repository).
