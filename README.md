@@ -2,7 +2,7 @@
 
 RomFS (LayeredFS) mods for *OOT* (Nintendo Switch 2, title ID `0400486024DEC000`, game v2.0.0) that replace:
 
-- the interface's **button icons** (the `External.*.bfotf` glyph font + the `Common.Product.100.*.bntx` textures);
+- the interface's **button icons** (the `External.*.bfotf` glyph font + the `Common.Product.100.*.bntx` textures), with Start and Select drawn like the real keys on the DualSense and the Xbox controller;
 - the **controller drawing** on the "Basic Controls" screen (Pro Controller → DualSense, Xbox controller or Steam Deck), with the label guide lines redrawn for each one.
 
 | Mod | Folder | Download |
